@@ -38,22 +38,22 @@ console.log("copia", copiaPokemon1)
 
 //para o objeto original, adicione o ataque **“Folha Navalha”,** com **45 de dano**, **100 de precisão**, e de tipo **“Grama”**;
 
-pokemon1.ataques.push([{
+pokemon1.ataques.push({
     nome: "Folha Navalha",
     dano: 45,
     tipo: "grama",
     precisao: 100,
-}])
+})
 
 console.log("original", pokemon1)
 
 
-copiaPokemon1.ataques.push([{
+copiaPokemon1.ataques.push({
     nome: "Jato de Água",
     dano: 40,
     tipo: "Água",
     precisao: 100,
-}])
+})
 
 
 
