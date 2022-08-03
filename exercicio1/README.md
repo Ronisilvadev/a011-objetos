@@ -12,4 +12,4 @@ disponibilidade: boolean;
 
 b) Adicione os objetos ao array `sacolao` utilizando o método **`push()`**
 
-c) Imprima a o array `sacolao`, e certifique-se de que agora ela seja um array **com três objetos**
+c) Adicione os objetos ao array `sacolao` utilizando o método **`push()`**
